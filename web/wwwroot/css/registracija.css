@@ -110,12 +110,12 @@ input {
 }
 
 .gumb_registracija:hover {
-     background-color: #b388eb;
+     background-color: #88eba9;
     color: white;
     text-decoration: none;
     display: inline-block;
     text-align: center;
     width: 60%;
-        box-shadow: 0 4px 6px #871C87;
+        box-shadow: 0 4px 6px #1c874a;
 
 }
